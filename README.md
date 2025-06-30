@@ -18,7 +18,7 @@ sudo apt install build-essential libncurses5-dev check
 
 # Сборка и запуск
 make install
-./Tetris
+./bin/Tetris
 ```
 
 ## ⌨ Управление
