@@ -1,0 +1,19 @@
+# Временные файлы
+*.o
+*.a
+*.gcda
+*.gcno
+*.gcov
+
+# Директории сборки
+bin/
+build/
+report/
+coverage/
+
+# Исполняемые файлы
+Tetris
+
+# Системные файлы
+.DS_Store
+*.tar.gz
